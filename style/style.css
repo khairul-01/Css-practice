@@ -1,0 +1,31 @@
+#thirdP{
+   background-color: rgba(0, 255, 255, 0.397);
+}
+.hed1{
+   text-align: center;
+   color: rgb(170, 139, 99);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ol{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style: italic;
+}
+#p2{
+   text-decoration: line-through;
+}
+li{
+   background-color: rgba(255, 99, 71, 0.425);
+   border: 5px solid blue;
+   margin-bottom: 2px;
+}
+.bord{
+   width: 90%;
+   background-color: rgba(0, 0, 255, 0.349);
+   border: 5px solid rgba(0, 128, 0, 0.486);
+   box-shadow: 6px 8px 10px purple;
+   border-radius: 8px;
+   border-width: 80%;
+}
+input[type="button"]{
+   color: red;
+}
